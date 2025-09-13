@@ -63,17 +63,17 @@
 
   - Business Impact & Insights
 
-    - High Revenue Drivers: Coffee and Tea are the major contributors to total sales, with Barista Espresso and Brewed Chai Tea among the top-selling products.
-    Focusing on these categories can further boost revenue.
+   1. High Revenue Drivers: Coffee and Tea are the major contributors to total sales, with Barista Espresso and Brewed Chai Tea among the top-selling products.
+      Focusing on these categories can further boost revenue.
 
-   - Store Performance: Hell’s Kitchen and Astoria locations show the highest footfall (~50K each), while Lower Manhattan lags behind. Targeted promotions or
-     localized marketing could help improve performance in weaker locations.
+   2. Store Performance: Hell’s Kitchen and Astoria locations show the highest footfall (~50K each), while Lower Manhattan lags behind. Targeted promotions or
+      localized marketing could help improve performance in weaker locations.
 
-   - Customer Preferences: Majority of orders are Regular (31%) and Large (30%), indicating that customers prefer bigger sizes, which increases average order value.
-     Upselling strategies can be reinforced to maximize profits.
+   3.  Customer Preferences: Majority of orders are Regular (31%) and Large (30%), indicating that customers prefer bigger sizes, which increases average order
+       value. Upselling strategies can be reinforced to maximize profits.
 
-   - Weekly Trends: Orders peak on weekdays (especially Monday and Friday) and dip on weekends (Saturday). Running weekend promotions or special offers could help
-     balance sales across all days.
+   4.  Weekly Trends: Orders peak on weekdays (especially Monday and Friday) and dip on weekends (Saturday). Running weekend promotions or special offers could help
+       balance sales across all days.
   
  6.Screenshot
 
