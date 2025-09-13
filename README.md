@@ -7,15 +7,14 @@
    An interactive and insightful Coffee Sales Dashboard built using Excel. This project analyzes real-world coffee shop sales data and visualizes it to uncover  
    trends, top products, category performance, and revenue contributors.
 
-
 2. Short Description
 
-   The Coffee Shop Sales Dashboard provides an analytical view of sales, customer footfall, and order trends to help managers and business owners identify top-
-   performing products, understand consumer preferences, and optimize store operations.
+The Coffee Shop Sales Dashboard provides an analytical view of sales, customer footfall, and order trends to help managers and business owners identify top-
+performing products, understand consumer preferences, and optimize store operations.
 
 3 . Tech Stack
 
-  The dashboard was built using the following tools and technologies:
+ The dashboard was built using the following tools and technologies:
 
 
  📊 Microsoft Excel – Data visualization and dashboard creation.
@@ -39,16 +38,16 @@
 
 5. Features / Highlights
 
-. Business Problem
+ - Business Problem
 
   Coffee shops need a clear and interactive way to track revenue, customer behavior, and product trends in order to maximize profitability and improve decision- 
   making.
   
-. Goal of Dashboard
+ - Goal of Dashboard
 
   The goal of this Dashboard was to analyze retail sales data to gain actionable insights that will enhab=nce the performance of the coffee shop.
 
-. Key Visuals
+ - Key Visuals
 
   1. On the left at top , the Bar Chart shows the Total bills based on Product category - with Coffee & Tea being the highest.
 
@@ -62,7 +61,7 @@
 
   6. On the left at bottom , the Line chart shows orders on weekdays - with Monday's & Friday's being highest.
 
- . Business Impact & Insights
+  - Business Impact & Insights
 
   - High Revenue Drivers: Coffee and Tea are the major contributors to total sales, with Barista Espresso and Brewed Chai Tea among the top-selling products.
    Focusing on these categories can further boost revenue.
@@ -78,4 +77,4 @@
   
 6.Screenshot
 
-  Dashboard Preview : (
+  Dashboard Preview : (https://github.com/Shrutik4575/Coffee-Sales-Analysis/blob/main/Dashboardcoffeeshop.png)
