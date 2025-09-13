@@ -77,4 +77,6 @@
   
  6.Screenshot
 
+   Show how dashboard looks - ![Alt_text](https://github.com/Shrutik4575/Coffee-Sales-Analysis/blob/main/Dashboardcoffeeshop.png)
+
   Dashboard Preview : (https://github.com/Shrutik4575/Coffee-Sales-Analysis/blob/main/Dashboardcoffeeshop.png)
